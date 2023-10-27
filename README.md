@@ -1,1 +1,1 @@
-# JavaProject2
+Java Program
